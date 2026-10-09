@@ -1,0 +1,127 @@
+[
+  {
+    "route": "/",
+    "title": "North & Nest Real Estate | Find your place in Edmonton",
+    "description": "Explore a fictional Edmonton real estate concept: thoughtfully curated homes, local neighbourhood guides, and useful buyer and seller resources."
+  },
+  {
+    "route": "/about/",
+    "title": "Our Story | North & Nest Edmonton",
+    "description": "Discover the thinking behind North & Nest, a fictional Edmonton real estate brand and AgaScales Digital Marketing portfolio demonstration."
+  },
+  {
+    "route": "/properties/",
+    "title": "Fictional Property Collection | North & Nest Edmonton",
+    "description": "Explore six fictional Edmonton property concepts. Filter by illustrative price, bedrooms, and property type, and view individual detail pages."
+  },
+  {
+    "route": "/properties/sample-home-1/",
+    "title": "The Glenora House | Fictional Glenora Property | North & Nest",
+    "description": "The Glenora House: a fictional Glenora, Edmonton detached concept with 4 bedrooms, 3 bathrooms and approximately 2450 sq ft. Not for sale."
+  },
+  {
+    "route": "/properties/ritchie-garden-home/",
+    "title": "The Ritchie Garden Home | Fictional Ritchie Property | North & Nest",
+    "description": "The Ritchie Garden Home: a fictional Ritchie, Edmonton detached concept with 3 bedrooms, 2 bathrooms and approximately 1680 sq ft. Not for sale."
+  },
+  {
+    "route": "/properties/windermere-residence/",
+    "title": "The Windermere Residence | Fictional Windermere Property | North & Nest",
+    "description": "The Windermere Residence: a fictional Windermere, Edmonton detached concept with 5 bedrooms, 4 bathrooms and approximately 3280 sq ft. Not for sale."
+  },
+  {
+    "route": "/properties/strathcona-loft/",
+    "title": "The Strathcona Loft | Fictional Strathcona Property | North & Nest",
+    "description": "The Strathcona Loft: a fictional Strathcona, Edmonton condo concept with 2 bedrooms, 2 bathrooms and approximately 1080 sq ft. Not for sale."
+  },
+  {
+    "route": "/properties/summerside-family-home/",
+    "title": "The Summerside Family Home | Fictional Summerside Property | North & Nest",
+    "description": "The Summerside Family Home: a fictional Summerside, Edmonton detached concept with 3 bedrooms, 3 bathrooms and approximately 1960 sq ft. Not for sale."
+  },
+  {
+    "route": "/properties/westmount-townhome/",
+    "title": "The Westmount Townhome | Fictional Westmount Property | North & Nest",
+    "description": "The Westmount Townhome: a fictional Westmount, Edmonton townhome concept with 3 bedrooms, 3 bathrooms and approximately 1540 sq ft. Not for sale."
+  },
+  {
+    "route": "/neighbourhoods/",
+    "title": "Edmonton Neighbourhood Guides | North & Nest",
+    "description": "Explore Glenora, Windermere, Ritchie, Strathcona, and Summerside with descriptive neighbourhood guides and practical questions for homebuyers."
+  },
+  {
+    "route": "/neighbourhoods/glenora/",
+    "title": "Glenora, Edmonton Neighbourhood Guide | North & Nest",
+    "description": "Glenora neighbourhood context, housing considerations, and practical exploration tips for Edmonton homebuyers. A fictional brand's educational guide."
+  },
+  {
+    "route": "/neighbourhoods/windermere/",
+    "title": "Windermere, Edmonton Neighbourhood Guide | North & Nest",
+    "description": "Windermere neighbourhood context, housing considerations, and practical exploration tips for Edmonton homebuyers. A fictional brand's educational guide."
+  },
+  {
+    "route": "/neighbourhoods/ritchie/",
+    "title": "Ritchie, Edmonton Neighbourhood Guide | North & Nest",
+    "description": "Ritchie neighbourhood context, housing considerations, and practical exploration tips for Edmonton homebuyers. A fictional brand's educational guide."
+  },
+  {
+    "route": "/neighbourhoods/strathcona/",
+    "title": "Strathcona, Edmonton Neighbourhood Guide | North & Nest",
+    "description": "Strathcona neighbourhood context, housing considerations, and practical exploration tips for Edmonton homebuyers. A fictional brand's educational guide."
+  },
+  {
+    "route": "/neighbourhoods/summerside/",
+    "title": "Summerside, Edmonton Neighbourhood Guide | North & Nest",
+    "description": "Summerside neighbourhood context, housing considerations, and practical exploration tips for Edmonton homebuyers. A fictional brand's educational guide."
+  },
+  {
+    "route": "/buy/",
+    "title": "Buy a Home in Edmonton | North & Nest Buyer Guide",
+    "description": "Plan your Edmonton home search with educational guidance for first-time buyers, relocating households, and investors. Includes a demonstration inquiry form."
+  },
+  {
+    "route": "/sell/",
+    "title": "Sell Your Home | North & Nest Edmonton Seller Guide",
+    "description": "Explore a thoughtful approach to preparing a home for sale, planning a transition, and asking informed questions. Fictional brand with a demonstration seller form."
+  },
+  {
+    "route": "/resources/",
+    "title": "Buyer & Seller Resources | North & Nest Edmonton",
+    "description": "Read practical educational guides for first-time homebuyers, sellers, relocating households, and investors. Printable, offline-friendly resources."
+  },
+  {
+    "route": "/resources/first-home/",
+    "title": "Your first home, thoughtfully | North & Nest Resources",
+    "description": "A clear starting point for budgeting, financing, and the questions that matter. A general educational guide for the North & Nest fictional Edmonton real estate concept."
+  },
+  {
+    "route": "/resources/selling-checklist/",
+    "title": "A considered selling checklist | North & Nest Resources",
+    "description": "Prepare your home, your documents, and your next move without the overwhelm. A general educational guide for the North & Nest fictional Edmonton real estate concept."
+  },
+  {
+    "route": "/resources/relocating/",
+    "title": "Make Edmonton feel like home | North & Nest Resources",
+    "description": "A practical way to explore the city and compare what matters to your household. A general educational guide for the North & Nest fictional Edmonton real estate concept."
+  },
+  {
+    "route": "/resources/investment-basics/",
+    "title": "Look beyond the asking price | North & Nest Resources",
+    "description": "Questions to help you evaluate costs, responsibilities, and risk. A general educational guide for the North & Nest fictional Edmonton real estate concept."
+  },
+  {
+    "route": "/contact/",
+    "title": "Contact & Demo Inquiry | North & Nest Edmonton",
+    "description": "Try the North & Nest demonstration inquiry experience. This fictional portfolio website does not send, store, or act on personal information."
+  },
+  {
+    "route": "/demo/",
+    "title": "About This Demonstration & Privacy | North & Nest",
+    "description": "Understand the fictional North & Nest portfolio concept, illustrative properties, generated imagery, and demonstration forms that do not transmit or store information."
+  },
+  {
+    "route": "/404/",
+    "title": "Page Not Found | North & Nest",
+    "description": "This page is unavailable. Return to the North & Nest homepage or explore the fictional property collection."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "north-and-nest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An offline-friendly, multi-page fictional Edmonton real estate portfolio concept",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node tests/check.mjs",
+    "test": "npm run build && npm run check",
+    "serve": "python3 -m http.server 4173 --directory netlify-deploy",
+    "test:browser": "node tests/browser.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "playwright": "1.58.2",
+    "axe-core": "4.10.3"
+  }
+}
